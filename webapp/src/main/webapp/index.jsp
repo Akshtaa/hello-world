@@ -49,7 +49,7 @@ hr {
 <body>  
 <form>  
   <div class="container">  
-  <center>  <h1>Exponent Feedback Form </h1> </center>  
+  <center>  <h1>Exponent Student Form </h1> </center>  
   <hr>  
   <label> Firstname </label>   
 <input type="text" name="firstname" placeholder= "Firstname" size="15" required />   
